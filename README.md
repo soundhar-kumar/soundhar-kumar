@@ -46,16 +46,8 @@ Standalone physical device detecting suspicious IoT activity using rules & light
 ### 📜 Publications  
 
 - 📄 [Beyond the Firewall: Human-Centric Threat Modeling for the Age of Social Engineering](https://arxiv.org/abs/2025.xxxxx)  
-- 📄 Two Decades of Cybersecurity Evolution: From Reactive Defense to Proactive Resilience  
-
 ---
 
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soundhar-kumar&show_icons=true&theme=radical" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundhar-kumar&layout=compact&theme=radical" height="160" />
-</p>
 
 ---
 
@@ -83,7 +75,7 @@ Standalone physical device detecting suspicious IoT activity using rules & light
 ![Metasploit](https://img.shields.io/badge/Metasploit-003366?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 
-![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=evPXLBQlGz)
+
 
 ![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)
 ![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-FFD700?style=for-the-badge&logo=lock&logoColor=black)
